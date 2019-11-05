@@ -1,7 +1,7 @@
-# SG248452-Moving-Integration-to-the-Cloud-with-Agile-Integration-Architecture-CICD-appsrc-standalone
+# SG248452-Accelerating-Modernization-with-Agile-Integration-CICD-appsrc-standalone
 
 Contains source code for use in example pipline at:
-https://github.com/IBMRedbooks/SG248452-Moving-Integration-to-the-Cloud-with-Agile-Integration-Architecture-CICD-infra
+https://github.com/IBMRedbooks/SG248452-Accelerating-Modernization-with-Agile-Integration-CICD-infra
 
 The source code can be pacakged by mqsipackagebar, creating a sample BAR file to be deployed into an App Connect Enterprise Container.
 
